@@ -24,7 +24,7 @@ if(!isset($_SESSION['login'])){
     </header>
     <div class="container text-center">
         <h2 class="py-3">Selamat! IRS anda telah tersimpan</h2>
-        <table class="table shadow">
+        <table class="table table-responsive table-bordered shadow">
             <?php
                 echo "<thead><tr>";
                     foreach($data[5] as $day){
