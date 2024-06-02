@@ -76,8 +76,8 @@ $data = [
         [
             "matkul" => "Kalkulus",
             "kelas" => "Kelas A",
-            "jam" => "07.00 - 09.30",
-            "sks" => 2,
+            "jam" => "07.00 - 10.20",
+            "sks" => 4,
             "ruang" => "Ruang A.201"
         ],
         [
@@ -90,15 +90,15 @@ $data = [
         [
             "matkul" => "Elektronika Dasar",
             "kelas" => "Kelas B",
-            "jam" => "07.00 - 09.30",
-            "sks" => 3,
+            "jam" => "07.00 - 08.40",
+            "sks" => 2,
             "ruang" => "Ruang B.102"
         ],
         [
             "matkul" => "Kalkulus",
             "kelas" => "Kelas C",
             "jam" => "10.20 - 12.00",
-            "sks" => 2,
+            "sks" => 4,
             "ruang" => "Ruang A.201"
         ],
         [
@@ -112,149 +112,149 @@ $data = [
     /*Selasa*/[
         [
             "matkul" => "Aljabar Linear",
-            "kelas" => "Kelas A",
-            "jam" => "13.00 - 15.00",
-            "sks" => 2,
-            "ruang" => "Ruang A.201"
+            "kelas" => "Kelas C",
+            "jam" => "07.50 - 09.30",
+            "sks" => 4,
+            "ruang" => "Ruang B.101"
         ],
         [
             "matkul" => "Elektronika Dasar",
             "kelas" => "Kelas A",
-            "jam" => "13.00 - 15.00",
+            "jam" => "07.00 - 08.40",
             "sks" => 2,
             "ruang" => "Ruang A.201"
         ],
         [
             "matkul" => "Kalkulus",
-            "kelas" => "Kelas A",
-            "jam" => "13.00 - 15.00",
-            "sks" => 2,
+            "kelas" => "Kelas B",
+            "jam" => "10.20 - 13.40",
+            "sks" => 4,
             "ruang" => "Ruang A.201"
         ],
         [
             "matkul" => "Kimia",
-            "kelas" => "Kelas A",
-            "jam" => "13.00 - 15.00",
-            "sks" => 2,
-            "ruang" => "Ruang A.201"
+            "kelas" => "Kelas B",
+            "jam" => "12.00 - 14.30",
+            "sks" => 3,
+            "ruang" => "Ruang A.202"
         ],
         [
             "matkul" => "Fisika Dasar",
             "kelas" => "Kelas A",
-            "jam" => "13.00 - 15.00",
-            "sks" => 2,
-            "ruang" => "Ruang A.201"
+            "jam" => "12.50 - 16.10",
+            "sks" => 4,
+            "ruang" => "Ruang B.201"
         ],
     ],
     /*Rabu*/[
         [
             "matkul" => "Fisika Dasar",
-            "kelas" => "Kelas A",
-            "jam" => "13.00 - 15.00",
-            "sks" => 2,
-            "ruang" => "Ruang A.201"
+            "kelas" => "Kelas B",
+            "jam" => "07.00 - 10.20",
+            "sks" => 4,
+            "ruang" => "Ruang B.201"
         ],
         [
             "matkul" => "Aljabar Linear",
-            "kelas" => "Kelas A",
-            "jam" => "13.00 - 15.00",
-            "sks" => 2,
-            "ruang" => "Ruang A.201"
+            "kelas" => "Kelas B",
+            "jam" => "09.30 - 15.00",
+            "sks" => 4,
+            "ruang" => "Ruang A.202"
         ],
         [
             "matkul" => "Kimia",
-            "kelas" => "Kelas A",
-            "jam" => "13.00 - 15.00",
-            "sks" => 2,
+            "kelas" => "Kelas D",
+            "jam" => "10.20 - 12.50",
+            "sks" => 3,
             "ruang" => "Ruang A.201"
         ],
         [
             "matkul" => "Elektronika Dasar",
-            "kelas" => "Kelas A",
-            "jam" => "13.00 - 15.00",
+            "kelas" => "Kelas C",
+            "jam" => "12.50 - 14.30",
             "sks" => 2,
-            "ruang" => "Ruang A.201"
+            "ruang" => "Ruang B.101"
         ],
         [
             "matkul" => "Kalkulus",
-            "kelas" => "Kelas A",
-            "jam" => "13.00 - 15.00",
-            "sks" => 2,
-            "ruang" => "Ruang A.201"
+            "kelas" => "Kelas E",
+            "jam" => "13.40 - 17.00",
+            "sks" => 4,
+            "ruang" => "Ruang B.201"
         ],
     ],
     /*Kamis*/[
         [
             "matkul" => "Aljabar Linear",
-            "kelas" => "Kelas A",
-            "jam" => "13.00 - 15.00",
-            "sks" => 2,
+            "kelas" => "Kelas D",
+            "jam" => "07.00 - 10.20",
+            "sks" => 4,
             "ruang" => "Ruang A.201"
         ],
         [
             "matkul" => "Kimia",
-            "kelas" => "Kelas A",
-            "jam" => "13.00 - 15.00",
-            "sks" => 2,
-            "ruang" => "Ruang A.201"
+            "kelas" => "Kelas C",
+            "jam" => "09.30 - 12.00",
+            "sks" => 3,
+            "ruang" => "Ruang B.101"
         ],
         [
             "matkul" => "Fisika Dasar",
-            "kelas" => "Kelas A",
-            "jam" => "13.00 - 15.00",
-            "sks" => 2,
-            "ruang" => "Ruang A.201"
+            "kelas" => "Kelas D",
+            "jam" => "10.20 - 13.40",
+            "sks" => 4,
+            "ruang" => "Ruang A.202"
         ],
         [
             "matkul" => "Elektronika Dasar",
-            "kelas" => "Kelas A",
-            "jam" => "13.00 - 15.00",
+            "kelas" => "Kelas D",
+            "jam" => "12.00 - 13.40",
             "sks" => 2,
             "ruang" => "Ruang A.201"
         ],
         [
             "matkul" => "Fisika Dasar",
-            "kelas" => "Kelas A",
-            "jam" => "13.00 - 15.00",
-            "sks" => 2,
-            "ruang" => "Ruang A.201"
+            "kelas" => "Kelas C",
+            "jam" => "12.50 - 16.10",
+            "sks" => 4,
+            "ruang" => "Ruang B.201"
         ],
     ],
     /*Jum'at*/[
         [
             "matkul" => "Kalkulus",
-            "kelas" => "Kelas A",
-            "jam" => "13.00 - 15.00",
-            "sks" => 2,
+            "kelas" => "Kelas D",
+            "jam" => "07.00 - 10.20",
+            "sks" => 4,
             "ruang" => "Ruang A.201"
         ],
         [
             "matkul" => "Fisika Dasar",
-            "kelas" => "Kelas A",
-            "jam" => "13.00 - 15.00",
-            "sks" => 2,
-            "ruang" => "Ruang A.201"
+            "kelas" => "Kelas E",
+            "jam" => "07.50 - 11.10",
+            "sks" => 4,
+            "ruang" => "Ruang A.202"
         ],
         [
             "matkul" => "Aljabar Linear",
-            "kelas" => "Kelas A",
-            "jam" => "13.00 - 15.00",
-            "sks" => 2,
-            "ruang" => "Ruang A.201"
+            "kelas" => "Kelas E",
+            "jam" => "08.40 - 12.00",
+            "sks" => 4,
+            "ruang" => "Ruang B.201"
         ],
         [
             "matkul" => "Kimia",
-            "kelas" => "Kelas A",
-            "jam" => "13.00 - 15.00",
-            "sks" => 2,
+            "kelas" => "Kelas E",
+            "jam" => "12.50 - 15.20",
+            "sks" => 3,
             "ruang" => "Ruang A.201"
         ],
         [
-            "matkul" => "Fisika Dasar",
-            "kelas" => "Kelas A",
-            "jam" => "13.00 - 15.00",
+            "matkul" => "Elektronika Dasar",
+            "kelas" => "Kelas E",
+            "jam" => "13.40 - 15.20",
             "sks" => 2,
-            "ruang" => "Ruang A.201"
+            "ruang" => "Ruang A.202"
         ],
     ],
     /*Days*/["Senin", "Selasa", "Rabu", "Kamis", "Jum'at"]
