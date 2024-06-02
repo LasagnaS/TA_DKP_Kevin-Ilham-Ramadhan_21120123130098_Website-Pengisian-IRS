@@ -55,7 +55,7 @@ if(!isset($_SESSION['login'])){
             ?>
         </table>
         <?php session_destroy() ?>
-        <a href="index.php"><button class='btn btn-info' type="button">Log Out</button></a>
+        <a class="mb-3" href="index.php"><button class='btn btn-info' type="button">Log Out</button></a>
     </div>
 </body>
 </html>

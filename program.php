@@ -57,6 +57,18 @@ if($ipk == null){
                     }
                 }
                 if($totalSks > $sks){
+                    for($k = 0; $k <= 4; $k++){
+                        for($l = 0; $l <= 4; $l++){
+                            if (isset($_POST["check-$k-$l"])) {   
+                                $_SESSION["$k-$l-matkul"] = null;
+                                $_SESSION["$k-$l-kelas"] = null;
+                                $_SESSION["$k-$l-jam"] = null;
+                                $_SESSION["$k-$l-sks"] = null;
+                                $_SESSION["$k-$l-ruang"] = null;
+                                $totalSks += $_POST["check-$k-$l"];
+                            }  
+                        }
+                    }
                     ?>
                         <div class='alert alert-primary'>
                             Anda mengambil terlalu banyak SKS. <br>
